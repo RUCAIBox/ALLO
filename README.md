@@ -1,2 +1,4 @@
 # ALLO
-The official repository of "Not Everything is All You Need: Toward Low-Redundant Optimization for Large Language Model Alignment''
+The official repository of "Low-Redundant Optimization for Large Language Model Alignment''
+
+Coming soon.
